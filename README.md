@@ -18,7 +18,7 @@ Built for INST347: Cloud Computing for Information Science at the University of 
 [![Darwin Demo](https://img.youtube.com/vi/STu-EwD7wG4/0.jpg)](https://youtu.be/STu-EwD7wG4)
 
 ## Dashboard 
-![Darwin Dashboard](screenshots/MobileScreenshot.png)
+![Darwin Dashboard](screenshots/Mobile_Screenshot.png)
 
 ## Use Case
 
