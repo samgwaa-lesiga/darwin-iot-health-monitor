@@ -14,6 +14,12 @@ Built for INST347: Cloud Computing for Information Science at the University of 
 - Displays real-time readings on the Arduino MKR IoT Carrier screen
 - Accessible via the Arduino IoT Remote app on mobile and desktop
 
+## Demo Video 
+[![Darwin Demo](https://img.youtube.com/vi/STu-EwD7wG4/0.jpg)](https://youtu.be/STu-EwD7wG4)
+
+## Dashboard 
+![Darwin Dashboard](screenshots/MobileScreenshot.png)
+
 ## Use Case
 
 Designed for caffeine-dependent users (persona: "Pat") to monitor how stimulant intake affects heart rate and sleep movement patterns — enabling data-driven awareness of health habits.
