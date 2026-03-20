@@ -22,7 +22,7 @@ Built for INST347: Cloud Computing for Information Science at the University of 
 
 ## Use Case
 
-Designed for caffeine-dependent users (persona: "Pat") to monitor how stimulant intake affects heart rate and sleep movement patterns — enabling data-driven awareness of health habits.
+Designed for caffeine-dependent users to monitor how stimulant intake affects heart rate and sleep movement patterns, enabling data-driven awareness of health habits.
 
 ## Hardware
 
